@@ -1,6 +1,6 @@
-# Laravel API
+# Laravel API with Sanctum Authentication
 
-A Laravel 12 backend API with Sanctum authentication for secure API access.
+A Laravel 12 backend API with Sanctum authentication for secure API access. This project is a simple API for a web application.
 
 ## Prerequisites
 
